@@ -30,10 +30,10 @@ section#telefone{
     left: 50%;
     transform: translate(-50%, -50%);
 
-    height: 627px;
-    width: 311px;
-    background: url(../imagens/frame-iphone.png) no-repeat center center;
-    background-size: 75%;
+    height: 694px;
+    width: 308px;
+    background: url(../imagens/frame-samsung.png) no-repeat center center;
+    background-size: 80%;
 }
 
 iframe#tela{
@@ -41,7 +41,8 @@ iframe#tela{
     top: 138px;
     left: 55px;
     width: 199px;
-    height: 353px;
+    height: 419px;
+    border-radius: 23px 23px 23px 23px ;
 }
 
 section#redes-sociais{
