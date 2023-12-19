@@ -11,15 +11,21 @@
     height: 0px;
 }
 
+body{
+    background-color: black;
+}
+
 img {
     width: 100vw;
 }
 
 a{
+    font-size: 0.8em;
     display: block;
     background-color: darkred;
     color: white;
-    padding: 20px;
+    padding: 17px;
+    margin: -4px;
     text-align: center;
     font-weight: bolder;
     text-decoration: none;
